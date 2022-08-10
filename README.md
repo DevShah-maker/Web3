@@ -1,2 +1,13 @@
-# Web3
-The several imporatnt tools used for blockchain ganache, solidity, hardhat, ets are contained in this repo. with its basics. Hence, this would be a great headstart to start learning about this domain or even if you are already engaged in it.
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+GAS_REPORT=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
